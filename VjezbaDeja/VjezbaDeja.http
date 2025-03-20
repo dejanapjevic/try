@@ -1,0 +1,6 @@
+@VjezbaDeja_HostAddress = http://localhost:5009
+
+GET {{VjezbaDeja_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
